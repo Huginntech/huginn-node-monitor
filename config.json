@@ -1,0 +1,9 @@
+{
+  "telegram_token": "YOUR_TELEGRAM_BOT_TOKEN",
+  "chat_id": "YOUR_TELEGRAM_CHAT_ID",
+  "nodes": {
+    "Cosmos Hub RPC": "http://cosmos-rpc.huginn.tech/status",
+    "Neutron Relayer RPC": "http://85.10.211.222:16657/status"
+  },
+  "check_interval": 600
+}
