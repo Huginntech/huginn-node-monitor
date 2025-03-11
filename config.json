@@ -3,7 +3,7 @@
   "chat_id": "YOUR_TELEGRAM_CHAT_ID",
   "nodes": {
     "Cosmos Hub RPC": "http://cosmos-rpc.huginn.tech/status",
-    "Neutron Relayer RPC": "http://85.10.211.222:16657/status"
+    "Neutron Relayer RPC": "http://123.120.123.222:16657/status"
   },
   "check_interval": 600
 }
