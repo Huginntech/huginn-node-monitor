@@ -1,4 +1,4 @@
-Huginn Node Monitor 🚀
+**Huginn Node Monitor**
 Huginn Node Monitor is a Python-based monitoring tool designed to track the health of RPC, relayer, and bot nodes for Cosmos-based networks. It periodically checks node statuses and sends alerts via Telegram if any node stops syncing.
 
 🔹 Features
